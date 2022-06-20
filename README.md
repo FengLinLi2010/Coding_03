@@ -9,5 +9,8 @@
 * Link of reference: https://blog.csdn.net/weixin_35154281/article/details/102158611
 
 ## Outcome
-
+* Original effect
+* ![image](https://github.com/FengLinLi2010/Coding_03/blob/main/1.gif)
+* After adjust model， training times and dataset
+* ![image](https://github.com/FengLinLi2010/Coding_03/blob/main/2.gif)
 * Link： https://github.com/FengLinLi2010/Coding_03/edit/main/README.md
